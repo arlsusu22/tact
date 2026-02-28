@@ -4,15 +4,17 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{% if page.title %}{{ page.title }} · {% endif %}Tact</title>
-    <meta name="description" content="Tact legal pages: privacy policy and terms of service." />
+    <meta name="description" content="Tact helps you build awareness around screen time with privacy-first defaults." />
     <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}" />
   </head>
   <body>
     <div class="bg-glow bg-glow-a"></div>
     <div class="bg-glow bg-glow-b"></div>
 
-    <header class="shell top">
+    <header class="shell top{% if page.home %} top-home{% endif %}">
+      {% unless page.home %}
       <a class="brand" href="{{ '/' | relative_url }}">tact</a>
+      {% endunless %}
       <nav class="nav">
         <a href="{{ '/support/' | relative_url }}">Support</a>
         <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
@@ -20,6 +22,11 @@
       </nav>
     </header>
 
+    {% if page.home %}
+    <main class="shell home-main">
+      {{ content }}
+    </main>
+    {% else %}
     <main class="shell">
       <article class="card content">
         {% if page.title %}
@@ -28,6 +35,7 @@
         {{ content }}
       </article>
     </main>
+    {% endif %}
 
     <footer class="shell foot">
       <span>Support: <a href="mailto:thetactapp@gmail.com">thetactapp@gmail.com</a></span>
