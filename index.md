@@ -5,7 +5,7 @@ home: true
 ---
 
 <section class="home-hero">
-  <div class="home-logo">tact</div>
+  <div class="home-logo">Tact</div>
   <p class="home-tagline">Tact helps you build awareness around screen time with privacy-first defaults.</p>
   <button class="store-button" type="button" disabled>Coming soon to App Store</button>
   <p class="home-links">

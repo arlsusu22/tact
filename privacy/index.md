@@ -8,17 +8,17 @@ permalink: /privacy/
 
 ## Overview
 
-tact ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our iOS application.
+Tact ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our iOS application.
 
 ## Information We Collect
 
 ### Screen Time Data
-- tact uses Apple's Screen Time API to access your device usage data
+- Tact uses Apple's Screen Time API to access your device usage data
 - This data includes app usage duration, category information, and usage patterns
 - **Screen Time usage data remains on your device** — we do not transmit this usage history to external analytics providers
 
 ### Local Data Storage
-tact stores the following data locally on your device:
+Tact stores the following data locally on your device:
 - Daily usage statistics and history
 - Notification preferences and settings
 - Daily goal configuration
@@ -75,7 +75,7 @@ You have full control over your data:
 
 ## Children's Privacy
 
-tact does not knowingly collect data from children under 13. The app requires Screen Time authorization, which is restricted on devices managed with parental controls.
+Tact does not knowingly collect data from children under 13. The app requires Screen Time authorization, which is restricted on devices managed with parental controls.
 
 ## Changes to This Policy
 
@@ -83,13 +83,13 @@ We may update this Privacy Policy periodically. Changes will be reflected by the
 
 ## Third-Party Services
 
-tact does not use third-party analytics, advertising, or tracking SDKs.
+Tact does not use third-party analytics, advertising, or tracking SDKs.
 
-For subscriptions and entitlement management, tact may use:
+For subscriptions and entitlement management, Tact may use:
 - Apple StoreKit / App Store (payment processing and subscription billing)
 - RevenueCat (subscription entitlement and purchase-state management)
 
-For app functionality, tact uses Apple's native frameworks:
+For app functionality, Tact uses Apple's native frameworks:
 - FamilyControls and DeviceActivity (Screen Time API)
 - UserNotifications (local notifications)
 
@@ -114,4 +114,4 @@ This app complies with:
 - iOS Privacy Requirements
 - Screen Time API Usage Guidelines
 
-By using tact, you agree to this Privacy Policy.
+By using Tact, you agree to this Privacy Policy.
