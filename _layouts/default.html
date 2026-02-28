@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{% if page.title %}{{ page.title }} · {% endif %}Tact</title>
     <meta name="description" content="Tact helps you build awareness around screen time with privacy-first defaults." />
-    <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}" />
+    {% assign css_version = site.github.build_revision | default: site.time | date: "%s" %}
+    <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}?v={{ css_version }}" />
   </head>
   <body>
     <div class="bg-glow bg-glow-a"></div>
