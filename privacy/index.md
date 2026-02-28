@@ -8,17 +8,17 @@ permalink: /privacy/
 
 ## Overview
 
-Tact ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our iOS application.
+tact ("we", "our", or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our iOS application.
 
 ## Information We Collect
 
 ### Screen Time Data
-- Tact uses Apple's Screen Time API to access your device usage data
+- tact uses Apple's Screen Time API to access your device usage data
 - This data includes app usage duration, category information, and usage patterns
-- **All Screen Time data remains on your device** — we do not transmit, store, or process this data on external servers
+- **Screen Time usage data remains on your device** — we do not transmit this usage history to external analytics providers
 
 ### Local Data Storage
-Tact stores the following data locally on your device:
+tact stores the following data locally on your device:
 - Daily usage statistics and history
 - Notification preferences and settings
 - Daily goal configuration
@@ -34,7 +34,7 @@ This data is stored using:
 - We do not collect personal information (name, email, phone number, etc.)
 - We do not use analytics services
 - We do not use advertising networks
-- We do not transmit your Screen Time data to our servers or any third party
+- We do not transmit your Screen Time usage history to third-party analytics or advertising services
 - We do not track your location
 - We do not access your contacts, photos, or other personal data
 
@@ -75,7 +75,7 @@ You have full control over your data:
 
 ## Children's Privacy
 
-Tact does not knowingly collect data from children under 13. The app requires Screen Time authorization, which is restricted on devices managed with parental controls.
+tact does not knowingly collect data from children under 13. The app requires Screen Time authorization, which is restricted on devices managed with parental controls.
 
 ## Changes to This Policy
 
@@ -83,8 +83,13 @@ We may update this Privacy Policy periodically. Changes will be reflected by the
 
 ## Third-Party Services
 
-Tact does not integrate any third-party analytics, advertising, or tracking services. The app uses only Apple's native frameworks:
-- StoreKit (subscription management)
+tact does not use third-party analytics, advertising, or tracking SDKs.
+
+For subscriptions and entitlement management, tact may use:
+- Apple StoreKit / App Store (payment processing and subscription billing)
+- RevenueCat (subscription entitlement and purchase-state management)
+
+For app functionality, tact uses Apple's native frameworks:
 - FamilyControls and DeviceActivity (Screen Time API)
 - UserNotifications (local notifications)
 
@@ -109,4 +114,4 @@ This app complies with:
 - iOS Privacy Requirements
 - Screen Time API Usage Guidelines
 
-By using Tact, you agree to this Privacy Policy.
+By using tact, you agree to this Privacy Policy.
