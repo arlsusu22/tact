@@ -6,12 +6,12 @@ permalink: /support/
 
 **Last Updated:** February 28, 2026
 
-Need help with tact? Contact us and we will get back to you as soon as possible.
+Need help with Tact? Contact us and we will get back to you as soon as possible.
 
 ## Contact
 
 - Email: [thetactapp@gmail.com](mailto:thetactapp@gmail.com)
-- App Name: tact
+- App Name: Tact
 - Platform: iOS
 
 ## Support Topics
@@ -34,7 +34,7 @@ We can help with:
 Before contacting support, please check:
 - iOS version is 16.0 or newer
 - Screen Time permissions are enabled
-- Notifications are enabled for tact
+- Notifications are enabled for Tact
 - Low Power Mode and Focus settings are not blocking notifications
 
 ## What to Include in Your Email
@@ -42,7 +42,7 @@ Before contacting support, please check:
 To speed up support, include:
 - Device model (for example, iPhone 15)
 - iOS version
-- tact app version
+- Tact app version
 - Short description of the issue
 - Screenshots if relevant
 

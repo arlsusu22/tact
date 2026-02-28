@@ -8,11 +8,11 @@ permalink: /terms/
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using tact ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using Tact ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ## 2. Description of Service
 
-tact is an iOS application that provides screen time awareness through:
+Tact is an iOS application that provides screen time awareness through:
 - Real-time device usage monitoring via Apple's Screen Time API
 - Personalized awareness notifications
 - Daily usage goals and streak tracking
@@ -21,7 +21,7 @@ tact is an iOS application that provides screen time awareness through:
 ## 3. Subscription and Payment
 
 ### 3.1 Free Trial
-- New users receive a 3-day free trial
+- New users receive a 7-day free trial
 - No charges during the trial period
 - Cancel anytime before trial ends to avoid charges
 
@@ -43,7 +43,7 @@ tact is an iOS application that provides screen time awareness through:
 
 ## 4. User Requirements
 
-To use tact, you must:
+To use Tact, you must:
 - Be at least 13 years old (or age of digital consent in your region)
 - Have an iOS device running iOS 16 or later
 - Grant Screen Time API authorization
@@ -73,7 +73,7 @@ You agree to use the App only for lawful purposes and in accordance with these T
 
 ### 7.1 Ownership
 - The App, including all code, designs, and content, is owned by its creators
-- "tact" name and logo are trademarks
+- "Tact" name and logo are trademarks
 - All rights reserved
 
 ### 7.2 Limited License
@@ -153,7 +153,7 @@ If any provision of these Terms is found invalid or unenforceable, the remaining
 
 ## 16. Entire Agreement
 
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and tact.
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and Tact.
 
 ## 17. Contact
 
@@ -165,7 +165,7 @@ For questions about these Terms:
 
 ## 18. Acknowledgment
 
-By using tact, you acknowledge that:
+By using Tact, you acknowledge that:
 - You have read and understood these Terms
 - You agree to be bound by these Terms
 - You understand your subscription will auto-renew unless canceled
