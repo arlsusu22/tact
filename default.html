@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% if page.title %}{{ page.title }} · {% endif %}Tact</title>
+    <meta name="description" content="Tact legal pages: privacy policy and terms of service." />
+    <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}" />
+  </head>
+  <body>
+    <div class="bg-glow bg-glow-a"></div>
+    <div class="bg-glow bg-glow-b"></div>
+
+    <header class="shell top">
+      <a class="brand" href="{{ '/' | relative_url }}">tact</a>
+      <nav class="nav">
+        <a href="{{ '/privacy/' | relative_url }}">Privacy</a>
+        <a href="{{ '/terms/' | relative_url }}">Terms</a>
+      </nav>
+    </header>
+
+    <main class="shell">
+      <article class="card content">
+        {% if page.title %}
+        <h1>{{ page.title }}</h1>
+        {% endif %}
+        {{ content }}
+      </article>
+    </main>
+
+    <footer class="shell foot">
+      <span>Support: <a href="mailto:thetactapp@gmail.com">thetactapp@gmail.com</a></span>
+    </footer>
+  </body>
+</html>
