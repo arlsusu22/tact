@@ -6,6 +6,7 @@ permalink: /
 
 Tact helps you build awareness around screen time with privacy-first defaults.
 
+- [Get Support](./support/)
 - [Read the Privacy Policy](./privacy/)
 - [Read the Terms of Service](./terms/)
 
